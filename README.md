@@ -8,3 +8,4 @@ Chào các bạn đến với khóa học vi điều khiển - MICO236929 (MICO2
 | 4  | **Lập trình điều khiển đèn LED 7 đoạn:**<br> - Nghe giải thích nguyên lý hoạt động của LED 7 đoạn, IC dịch 74HC595; Quá trình tạo dự án lập trình đèn LED 7 đoạn<br> - Thực hành theo hướng dẫn và mở rộng thêm các yêu cầu lập trình đèn LED 7 đoạn |
 | 5  | **Lập trình đọc tín hiệu nhấn nút:**<br> - Nghe giải thích nguyên lý hoạt động nút nhấn và các lệnh đọc nút nhấn, lập trình chống dội nút nút, kỹ thuật lập trình finite state machine<br> - Thực hành theo hướng dẫn và mở rộng thêm các yêu cầu lập trình đọc nút nhấn |
 | 6  | **Lập trình dự án Mind game:**<br> - Nghe giải thích các lệnh tối ưu chương trình C cho dự án mind game, sử dụng hàm số trong C.<br> - Thực hành theo hướng dẫn và mở rộng thêm các yêu cầu lập trình |
+a
