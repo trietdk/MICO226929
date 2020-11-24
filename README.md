@@ -3,5 +3,5 @@ Chào các bạn đến với khóa học vi điều khiển - MICO236929 (MICO2
 | STT  | Nội dung |
 | ------------- | ------------- |
 | Bài 1  | Chuẩn bị cho lớp học: Hướng dẫn cài đặt phần cứng và phần mềm  |
-| Bài 2  | Giới thiệu lập trình vi điều khiển PIC:<br>- Xem quá trình làm việc với vi điều khiển PIC: Mở phần mềm MPLABX tạo dự án lập trình mới, copy code mẫu vào phần mềm, biên dịch, nạp chương trình, mô phỏng hoạt động của chương trình, chỉnh sửa code mẫu và biên dịch lại, đóng gói dự án<br> Thực hiện theo hướng dẫn và sáng tạo chỉnh sửa code mẫu để thay đổi hoạt động chương trình theo yêu cầu mới  |
+| Bài 2  | Giới thiệu lập trình vi điều khiển PIC:<br>- Xem quá trình làm việc với vi điều khiển PIC: Mở phần mềm MPLABX tạo dự án lập trình mới, copy code mẫu vào phần mềm, biên dịch, nạp chương trình, mô phỏng hoạt động của chương trình, chỉnh sửa code mẫu và biên dịch lại, đóng gói dự án<br> - Thực hiện theo hướng dẫn và sáng tạo chỉnh sửa code mẫu để thay đổi hoạt động chương trình theo yêu cầu mới  |
 | Bài 3  | Lập trình I/O đơn giản |
