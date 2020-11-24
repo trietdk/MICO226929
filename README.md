@@ -4,7 +4,7 @@ Chào các bạn đến với khóa học vi điều khiển - MICO236929 (MICO2
 | ------------- | ------------- |
 | Bài 1  | Chuẩn bị cho lớp học: Hướng dẫn cài đặt phần cứng và phần mềm  |
 | ------------- | ------------- |
-| Bài 2  | Giới thiệu lập trình vi điều khiển PIC: |
-|        |- Trong bài này, bạn sẽ được hướng dẫn một quá trình làm việc với vi điều khiển PIC với phần mã nguồn đã được chuẩn bị sẵn  |
+| Bài 2  | Giới thiệu lập trình vi điều khiển PIC: 
+|        - Trong bài này, bạn sẽ được hướng dẫn một quá trình làm việc với vi điều khiển PIC với phần mã nguồn đã được chuẩn bị sẵn  |
 | ------------- | ------------- |
 | Bài 3  | Lập trình I/O đơn giản |
